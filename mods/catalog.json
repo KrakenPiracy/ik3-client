@@ -9,8 +9,8 @@
     },
     {
       "id": "searchanddestroy",
-      "title": "Search And Destroy Bots Overhaul.",
-      "description": "Testing",
+      "title": "Search & Destroy Bots Overhaul.",
+      "description": "Tactical Combat AI • Improved Aiming & Reactions • 4 Difficulty Levels • Smarter Enemy Tracking • Bomb Planting & Defusing AI • Bomb Carrier Escort • Bomb Recovery • Tactical Flanking • Randomized Routes • Defensive Positioning • Angle Holding & Peeking • Combat Strafing • Team Callouts • Smart Squad Spacing • Site Retakes • Post-Plant Defense • Custom Operator Skins • Mastery Camos • Meta Loadouts • Bot vs Bot Combat • Stuck Detection & Route Recovery • Customizable Friendly Bots • In-Game Settings Menu • Persistent Settings • Performance Optimizations • All S&D Maps Supported",
       "file": "mods/searchanddestroy/matchstats.gscc"
     }
   ]
