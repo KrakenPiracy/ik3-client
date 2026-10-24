@@ -1,4 +1,17 @@
 {
   "schema_version": 1,
-  "mods": []
+  "mods": [
+    {
+      "id": "rebirth",
+      "title": "Rebirth & Vodel Bots Overhaul.",
+      "description": "Test",
+      "file": "mods/rebirth/matchstats.gscc"
+    },
+    {
+      "id": "searchanddestroy",
+      "title": "Search And Destroy Bots Overhaul.",
+      "description": "Testing",
+      "file": "mods/searchanddestroy/matchstats.gscc"
+    }
+  ]
 }
