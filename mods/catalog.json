@@ -4,31 +4,7 @@
     {
       "id": "rebirth",
       "title": "Rebirth & Vodel Bots Overhaul.",
-      "description": "Improved aiming, accuracy, and faster reactions.
-
-Smarter combat, targeting, and enemy tracking.
-
-Aggressive movement, sprinting, and tactical sprinting.
-
-Bots chase enemies inside buildings and on rooftops.
-
-Custom operator skins, mastery camos, and meta loadouts.
-
-Randomized plane jumps and landing locations.
-
-Full armor and automatic armor regeneration.
-
-Downed system with self-revive.
-
-Customizable bot redeployment chance.
-
-Smart teleporting and water rescue.
-
-Balanced player and bot damage.
-
-Optimized shooting system to reduce server lag.
-
-In-game settings menu to customize difficulty, combat, movement, and survival.",
+      "description": "Improved Aiming & Accuracy • Faster Reactions • Smarter Combat AI • Aggressive Movement • Tactical Sprinting • Enemy Tracking & Chasing • Custom Operator Skins • Mastery Camos • Meta Loadouts • Randomized Plane Jumps • Full Armor & Regeneration • Self-Revive System • Customizable Redeployment • Smart Teleporting • Water Rescue • Balanced Damage • Performance Optimizations • In-Game Settings Menu",
       "file": "mods/rebirth/matchstats.gscc"
     },
     {
